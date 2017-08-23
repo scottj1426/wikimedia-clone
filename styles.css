@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+
+.header{
+
+  margin
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  margin: 2% 15%;
+
+}
+
+
+.welcome{
+  text-align: right;
+}
+
+.row{
+  margin: 12%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+img{
+  height: 120px;
+  width: 120px;
+}
+.bot{
+font-size: .75em;
+}
+
+.finish{
+  text-align: center;
+}
